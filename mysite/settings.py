@@ -25,7 +25,7 @@ SECRET_KEY = 'qt9a8nn=qcxat%mf^m&1@n93b^ja$^2d7(=$(m6j8pw%+0eni)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pkyron.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'norynotnori.pythonanywhere.com']
 
 
 # Application definition
